@@ -1,0 +1,11 @@
+-std=c++17
+-Wall
+-Wextra
+-Wpedantic
+-Wconversion
+-Wnull-dereference
+-ID:\dev\proyectos\pong\SDL2\include
+-LD:\dev\proyectos\pong\SDL2\lib
+-lmingw32
+-lSDL2main
+-lSDL2
